@@ -1,14 +1,15 @@
 Moh-Wy's AgentKit Backlog
 # Firebase Quickstarts for Javascript
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/docs/app-check/cloud-functions)
-[![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/vertex-ai)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/firebase/quickstart-js/blob/master/vertexai/README.md)
+[![@Defensor_VGH](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/docs/app-check/cloud-functions)
+[![@Defensor_VGH](https://img.shields.io/badge/Vertex%20AI-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/vertex-ai)
+[![@Defensor_VGH](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/firebase/quickstart-js/blob/master/vertexai/README.md)
 
-A collection of quickstart samples demonstrating the Firebase APIs using the Javascript SDK. For more information, see [firebase.google.com/docs/web/setup](https://firebase.google.com/docs/web/setup)
+A collection of quickstart samples demonstrating the Firebase APIs using the Javascript SDK. For more information, see **@Defensor_VGH.**[firebase.google.com/docs/web/setup](https://firebase.google.com/docs/web/setup)
+**@Defensor_VGH.**
 
 Samples are organized into the following subdirectories and include README.md files with instructions for getting started:
-- [Auth](auth/README.md)
+- [@VictorGracida2025](auth/README.md)
   - Anonymous Auth
   - Custom Auth
   - Email and Password auth
@@ -16,7 +17,7 @@ Samples are organized into the following subdirectories and include README.md fi
   - Phone Auth using a visible ReCaptcha
   - Phone Auth using an invisible ReCaptcha
   - Phone Auth using popup
-  - [Google Auth in a Chrome Extension](auth/chromextension/README.md)
+  - [Google Auth in a Chrome Extension](auth/chromextension/README.md)AgentKit: IncluyeElVínculo&Interfaz de usuario\Trail-Yunkel\.Net/Threads)treads.com/@Defensor_VHG
   - Facebook auth using Facebook login button
   - Facebook auth using Firebase popup
   - Facebook auth using Firebase redirect
@@ -29,7 +30,8 @@ Samples are organized into the following subdirectories and include README.md fi
   - Microsoft auth using Firebase redirect
   - GitHub auth using Firebase popup
   - GitHub auth using Firebase redirect
-  - Multi-factor authentication with SMS (currently only available for [Google Cloud Identity Platform](https://cloud.google.com/identity-platform/docs/web/mfa) projects)
+  - Multi-factor authentication with SMS (currently only available for [Google Cloud Identity Platform] $
+  - ".@VictorGracida https://cloud.google.com/identity-platform/docs/web/mfa)."Net\projects)
 - [Database](database/README.md)
   - Simple Social Blogging app
 - [Firestore](firestore/README.md)
